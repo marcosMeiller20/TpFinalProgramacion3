@@ -7,7 +7,6 @@ public class Avion
     private int velocidadMaxima;
     private String tipoDePropulsion;
     
-
     public Avion(int costoPorKm, int capacidadMaxPasajeros, int velocidadMaxima, String tipoDePropulsion) 
     {
         this.costoPorKm = costoPorKm;
